@@ -1,5 +1,6 @@
 damn papa you're a rare breed 
 no comparing and it's mfn' scary
+<<<<<<< HEAD
 
 !!!!!!!!
 meow
@@ -16,3 +17,7 @@ No Final Fantasy, can we end these games though?
 You give me energy, make me feel lightweight
 Like the birds of a feather, baby
 We real life made for each other
+=======
+hello liz
+>>>>>>> 89285ab4d672039548e40231e3ac7e035f924ade
+hello lisa
